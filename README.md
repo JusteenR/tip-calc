@@ -11,7 +11,7 @@ The number of people, amount of tip and percentage of the tip can all be adjuste
 
 ## Project Screen Shot
 
-
+![Tip Time](/tiptimev1.png)
 
 ## Installation and Setup Instructions
 
